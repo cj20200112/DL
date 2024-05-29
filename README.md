@@ -8,7 +8,7 @@ DNN、RNN、LSTM
 ## DNN分類-鳶尾花  
 ![image](https://github.com/cj20200112/DL/assets/166897672/e491a9a3-473e-4b41-8b6c-84f3f66b238f)
   
-##LSTM、RNN-股價預測  
+## LSTM、RNN-股價預測  
 LSTM結果  
 ![image](https://github.com/cj20200112/DL/assets/166897672/56994aca-51f3-426e-acd4-41d255f771d5)
 
