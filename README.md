@@ -21,4 +21,12 @@ RNN結果
 ## CNN-CNN-pytorch圖片分類  
 ![image](https://github.com/cj20200112/DL/assets/166897672/8d1db18b-afca-494d-9f7e-aba5fe5e47ed)  
 
+## GA基因演算法-圖像創作
+原圖  
+![image](https://github.com/cj20200112/DL/assets/166897672/1d4a5d7d-916d-4f54-97af-fddeae6749f2)  
+
+生成圖  
+![image](https://github.com/cj20200112/DL/assets/166897672/11b7f050-ecdc-4c75-9a55-541cc76ac803)
+
+
   
