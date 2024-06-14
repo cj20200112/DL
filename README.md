@@ -18,7 +18,7 @@ RNN結果
 ## CNN-手寫數字辨識  
 ![image](https://github.com/cj20200112/DL/assets/166897672/64835702-96c8-4b02-a3d4-98c260be38ff)
 
-## CNN-CNN-pytorch圖片分類  
+## CNN-pytorch圖片分類  
 ![image](https://github.com/cj20200112/DL/assets/166897672/8d1db18b-afca-494d-9f7e-aba5fe5e47ed)  
 
 ## GA基因演算法-圖像創作
