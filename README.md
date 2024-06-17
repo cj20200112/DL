@@ -41,6 +41,10 @@ RNN結果
 訓練過程-後期(100 epoch)  
 ![image](https://github.com/cj20200112/DL/assets/166897672/1853617f-78e7-4511-8164-4114a7f062c6)
 
+## GAN(pix2pix)-黑白圖片上色
+![image](https://github.com/cj20200112/DL/assets/166897672/762cf9bc-9260-447c-9680-30d4fd288a55)  
+
+
 
 
   
